@@ -12,7 +12,7 @@ and add it to your phone's home screen like an app.
 - Works offline, data stays on your device
 
 ## Use it
-Open https:/Tarun-uz.github.io/tapsavespend/ in Safari,
+Open https://Tarun-uz.github.io/tapsavespend/ in Safari,
 tap Share, then Add to Home Screen.
 
 ## Privacy
